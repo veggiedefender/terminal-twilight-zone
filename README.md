@@ -18,3 +18,9 @@ I'm a simple man, and I need simple audio cues involving cultural references *I 
 * Copy the audio file `twilight_zone.wav` into `/usr/share/twilight_zone`
 * Copy the contents of `.zshrc` into your actual `~/.zshrc` somewhere reasonable
 * Restart your terminal
+
+*****
+
+[Preview the sound (vocaroo)](http://vocaroo.com/i/s0BPidEIYEsB)
+
+I don't own the rights to the sound, which I ripped off of [this video](https://youtu.be/NzlG28B-R8Y?t=22)
